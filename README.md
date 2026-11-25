@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Tarun Kumar 👋
 
-<!--
-**tarunkumar081207-jpg/tarunkumar081207-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+I am a Computer Science student at KR Mangalam University (2026–2030), interested in Full-Stack Development and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- University: KR Mangalam University
+- Degree: B.Tech
+- Branch: Computer Science
+- Batch: 2026–2030
+
+## 💻 Technical Skills
+
+| Skill | Description |
+|---|---|
+| Linux | Basic Linux Commands |
+| Bash | Shell Scripting |
+| Git | Version Control |
+| GitHub | Repository Management |
+| APIs | REST API Basics |
+| JSON | JSON Data Handling |
+| HTML | Basic Web Development |
+
+## 🚀 Projects
+
+### DeveloperPortfolio
+A Capstone project containing Linux documentation, Bash scripts, API integration, learning roadmap, and a personal portfolio website.
+
+[View DeveloperPortfolio](https://github.com/tarunkumar081207-jpg/DeveloperPortfolio)
+
+## 🎯 Career Interest
+Full-Stack Development
+
+## 📫 Connect With Me
+- GitHub: https://github.com/tarunkumar081207-jpg
+- LinkedIn: https://www.linkelin.com/in/tarun-kumar-51932a411
+-
